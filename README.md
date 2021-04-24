@@ -23,7 +23,7 @@ We trained the model on the 10 most common proteins. Only proteins of length < 2
 
 GPU Used: Tesla P100 PCIe 16GB
 
-![training_curves](imgs/training_curves.png =30x)
+![training_curves](imgs/training_curves.png)
 
 ### Results
 
