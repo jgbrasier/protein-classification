@@ -17,7 +17,7 @@ We used a CNN & BiLSTM model in a similar way to what is done in sentiment analy
 
 ![model](imgs/model.jpg)
 
-### Training
+### Training 
 
 We trained the model on the 10 most common proteins. Only proteins of length < 2000 were kept to tame long computational times. Gradient clipping was used to prevent exploding/vanishing gradients, a common problem for LSTM models.
 
