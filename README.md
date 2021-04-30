@@ -25,7 +25,7 @@ GPU Used: Tesla P100 PCIe 16GB
 
 ![training_curves](imgs/training_curves.png)
 
-### Results
+### Results 
 
 The model was evaluated on a test set of 3000 sequences.
 
