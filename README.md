@@ -6,6 +6,8 @@ Protein sequence and labels available on Kaggle dataset
 
 dataset: https://www.kaggle.com/shahir/protein-data-set
 
+final course report: IDL_Project.pdf
+
 #### Objective
 Inferring the properties of a protein from its amino acid sequence is one of the key problems in bioinformatics.
 
