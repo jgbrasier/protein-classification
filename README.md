@@ -29,7 +29,7 @@ GPU Used: Tesla P100 PCIe 16GB
 
 The model was evaluated on a test set of 3000 sequences.
 
-Total test accuracy: 83%
+Total test accuracy: 83% 
 
 ![acc](imgs/classification_accuracy.png)
 
