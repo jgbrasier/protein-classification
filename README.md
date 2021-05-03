@@ -15,7 +15,7 @@ We propose a method to classify 10 common proteins directly from their sequence 
 
 ### Model
 
-We used a CNN & BiLSTM model in a similar way to what is done in sentiment analysis. The CNN is able to extract spacial features from an embedded sequence of proteins. A bidirectionnal LSTM is a powerful tool for sequence prediction and classification. A protein sequence has no predefinite order of lecture, that is why a bidirectional LSTM is preffered here. Both CNN and LSTM outputs are concatenated and passed through 2 fully connected layers to extract a final classication. Droupout is used between each sub-model blocks. 
+We used a CNN & BiLSTM model in a similar way to what is done in sentiment analysis. The CNN is able to extract spacial features from an embedded sequence of proteins. A bidirectionnal LSTM is a powerful tool for sequence prediction and classification. A protein sequence has no predefinite order of lecture, that is why a bidirectional LSTM is prefered here. Both CNN and LSTM outputs are concatenated and passed through 2 fully connected layers to extract a final classication. Dropout is used between each sub-model blocks. 
 
 ![model](imgs/model_cnn_bilstm.jpg)
 
